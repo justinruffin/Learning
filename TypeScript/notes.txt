@@ -1,1 +1,5 @@
 TypeScript Notes
+
+Adds Static Typing:
+  - Variables are assigned a type and that type never changes (JS is Dynamically typed which means variables may be assigned/reassigned any type of value)
+  - Fields must be predefined and cannot be added manually
